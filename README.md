@@ -56,7 +56,7 @@ These will arrive in upcoming versions:
 3. Compile and run **`Main.java`**
 4. Follow the console prompts to play
 
-**Input format and example output:**
+**Input format:**
 `2 0`
 
 
