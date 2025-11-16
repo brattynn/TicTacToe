@@ -84,12 +84,6 @@ It also sets the foundation for future versions where I explore:
 
 ---
 
-## Example Console Output
-
-![Input Format.png](pictures/Input%20Format.png)
-
----
-
 ## Why This Project Exists
 
 This isn’t just a Tic-Tac-Toe game — it’s the first stepping stone in a structured series where I practice:
